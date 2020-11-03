@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\smayuresh09.github.io\scientific_service_project1\scientific_service_project1\bin\scientific_service_project1.dll
+C:\Users\hp\Desktop\smayuresh09.github.io\scientific_service_project1\scientific_service_project1\bin\scientific_service_project1.pdb
+C:\Users\hp\Desktop\smayuresh09.github.io\scientific_service_project1\scientific_service_project1\obj\Debug\scientific_service_project1.dll
+C:\Users\hp\Desktop\smayuresh09.github.io\scientific_service_project1\scientific_service_project1\obj\Debug\scientific_service_project1.pdb
+C:\Users\hp\Desktop\intern\scientific_service_project1\scientific_service_project1\bin\scientific_service_project1.dll
+C:\Users\hp\Desktop\intern\scientific_service_project1\scientific_service_project1\bin\scientific_service_project1.pdb
+C:\Users\hp\Desktop\intern\scientific_service_project1\scientific_service_project1\obj\Debug\scientific_service_project1.dll
+C:\Users\hp\Desktop\intern\scientific_service_project1\scientific_service_project1\obj\Debug\scientific_service_project1.pdb
